@@ -1,16 +1,8 @@
-# testes
+# Flutter Provider Example
 
-A new Flutter project.
 
-## Getting Started
+In this example, I have used a TextFeild widget that is used twice on the page.
+The main challenge for me was to update a variable as soon as the value of that field changes when I use a widget on different pages, without having to set the state manually.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+در این مثال من از یک ویجت TextFeild استفاده کرده ام که در صفحه دوبار از آن استفاده شده.
+چالش اصلی برای من به این صورت بود که وقتی از یک ویجت در صفحات مختلف استفاده می کنم به محض تغییر دادن در مقدار آن فیلد یه متغییر را آپدیت کنم، بدون اینکه نیاز باشد state را بصورت دستی ست کنم.
